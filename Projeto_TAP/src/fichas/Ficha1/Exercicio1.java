@@ -30,11 +30,6 @@ public class Exercicio1 {
 	}
     }
 
-    public int CalcularIdade(Pessoa p){
-	var year = Calendar.getInstance().get(Calendar.YEAR);
-	return year - p.anoNasc;
-    }
-
     public static void main(String[] args) {
 	Pessoa persona, p1, pessoaX;
 
@@ -43,5 +38,7 @@ public class Exercicio1 {
 	pessoaX = new Pessoa("pessoaX", "123456789", 2004, "pessoaX@gmail.com");
 
 	System.out.println("Nome: " + persona.getNome() + "\nNIF: " + persona.getNif() + "\nAno de Nascimento: " + persona.getAnoNasc()+" (" + persona.idade() + " anos)\nContacto: " + persona.getContacto());
+	System.out.println("Nome: " + p1.getNome() + "\nNIF: " + p1.getNif() + "\nAno de Nascimento: " + p1.getAnoNasc()+" (" + p1.idade() + " anos)\nContacto: " + p1.getContacto());
+	System.out.println("Nome: " + pessoaX.getNome() + "\nNIF: " + pessoaX.getNif() + "\nAno de Nascimento: " + pessoaX.getAnoNasc()+" (" + pessoaX.idade() + " anos)\nContacto: " + pessoaX.getContacto());
     }
 }
