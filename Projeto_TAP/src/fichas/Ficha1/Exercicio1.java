@@ -11,9 +11,9 @@ public class Exercicio1 {
 	    this.contacto = contacto;
 	}
 
-        public String nome;
-        public String nif;
-        public int anoNasc;
+        private String nome;
+        private String nif;
+        private int anoNasc;
         private String contacto;
 
 	public int getAnoNasc(){return anoNasc;}
