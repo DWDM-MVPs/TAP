@@ -4,7 +4,7 @@ public class Exercicio1 {
     public static void main(String[] args) {
 	Exercicio1_Pessoa pessoa;
 
-	pessoa = new Exercicio1_Pessoa("abc", "abc", 000, "abc",0,0);
+	pessoa = new Exercicio1_Pessoa("abc", "abc", 2000, "abc",0,0);
 
 	pessoa.setNome("pessoaX");
 	pessoa.setNif("123456789");
