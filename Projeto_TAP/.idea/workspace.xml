@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7df4b53-48cb-40a3-80af-68c4e4158802" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tap/ficha4/Alunos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tap/ficha4/Docentes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tap/ficha4/Funcionarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tap/ficha4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tap/ficha4/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tap/ficha4/UCs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tap/ficha4/Alunos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tap/ficha4/Alunos.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +105,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

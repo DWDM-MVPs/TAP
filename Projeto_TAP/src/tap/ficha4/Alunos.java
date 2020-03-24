@@ -34,14 +34,14 @@ public class Alunos extends Pessoa {
     // UCs
 
 
-    // CURSOS
-    public String[] cursos;
+    // CURSO
+    public String curso;
 
-    public void setCursos(String[] cursos){
-        this.cursos = cursos;
+    public void setCurso(String curso){
+        this.curso = curso;
     }
-    public String[] getCursos(){
-        return this.cursos;
+    public String getCurso(){
+        return this.curso;
     }
-    // CURSOS
+    // CURSO
 }
