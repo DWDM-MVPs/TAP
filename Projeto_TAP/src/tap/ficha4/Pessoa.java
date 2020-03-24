@@ -3,17 +3,14 @@ package tap.ficha4;
 import java.util.Calendar;
 
 public abstract class Pessoa {
-
-
-
-
+    public Pessoa(){}
 
 
     // NOME
     private String nome;
 
-    public void setNome(String Name) {
-        this.nome = Name;
+    public void setNome(String nome) {
+        this.nome = nome;
     }
     public String getNome(){
         return this.nome;
