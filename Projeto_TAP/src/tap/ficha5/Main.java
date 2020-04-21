@@ -10,7 +10,14 @@ public class Main
     public static void main(String[] args)
     {
         ArrayList<Integer> nums = new ArrayList<Integer>();
-        BufferedReader f=new BufferedReader(new FileReader())
+        BufferedReader f=new BufferedReader(new FileReader(new File("numeros.txt")));
+        String linha=f.readLine();
+        while(linha!=null)
+        {
+            nums.add(Integer.parseInt(linha));
+            linha=f.readLine();
+        }
+        f.close();
     }
     public void guardaPessoasTxt(String nf) throws IOException
     {
