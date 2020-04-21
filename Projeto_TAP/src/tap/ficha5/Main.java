@@ -7,8 +7,7 @@ import java.util.ArrayList;
 
 public class Main
 {
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) throws IOException {
         ArrayList<Integer> nums = new ArrayList<Integer>();
         BufferedReader f=new BufferedReader(new FileReader(new File("numeros.txt")));
         String linha=f.readLine();
@@ -21,14 +20,17 @@ public class Main
     }
     public void guardaPessoasTxt(String nf) throws IOException
     {
+        /*
         FileWriter fich = new FileWriter(new File(nf));
         BufferedWriter f = new BufferedWriter(fich);
+
         for(Pessoa p : listagem)
         {
             f.write(p.getNome() + ";"+p.idade()+";"+p.getNif()+";"+p.getContacto());
             f.newLine();
         }
         f.close();
+        */
     }
 
 }
