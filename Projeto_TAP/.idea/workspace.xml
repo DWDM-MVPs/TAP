@@ -6,7 +6,6 @@
       <change beforePath="$PROJECT_DIR$/src/tap/ficha4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tap/ficha4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tap/ficha4/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tap/ficha4/Pessoa.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,18 +40,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\migcampos\Desktop\TAP\src\tap\ficha2" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Escola" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -133,6 +120,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="729" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583231262613" />
+    <state x="808" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586852220877">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="808" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1050/-1920.-160.1920.1050@0.0.1920.1050" timestamp="1586852220877" />
+    <state x="640" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586852414816">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050/-1920.-160.1920.1050@0.0.1920.1050" timestamp="1586852414816" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1583244777067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
