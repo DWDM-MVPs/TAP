@@ -1,12 +1,14 @@
 package tap.ficha4;
 
-public class Funcionarios extends Pessoa {
-    public Funcionarios(String nome, int nif, int anoNascimento, String contacto) {
+public class Funcionario extends Pessoa {
+    public Funcionario(String nome, int nif, int anoNascimento, String contacto) {
 	super.setNome(nome);
 	super.setNif(nif);
 	super.setAnoNascimento(anoNascimento);
 	super.setContacto(contacto);
     }
+
+    public Funcionario() {}
 
 
 

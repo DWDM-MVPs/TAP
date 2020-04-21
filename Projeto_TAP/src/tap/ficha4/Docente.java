@@ -1,17 +1,19 @@
 package tap.ficha4;
 
-public class Docentes extends Pessoa {
-    public Docentes(String nome, int nif, int anoNascimento, String contacto) {
+public class Docente extends Pessoa {
+    public Docente(String nome, int nif, int anoNascimento, String contacto) {
         super.setNome(nome);
         super.setNif(nif);
         super.setAnoNascimento(anoNascimento);
         super.setContacto(contacto);
     }
 
+    public Docente() {}
+
 
 
     // NUMERO DOCENTE
-    public int numeroDocente;
+    private int numeroDocente;
 
     public void setNumeroDocente(int numeroDocente){
         this.numeroDocente = numeroDocente;
@@ -23,7 +25,7 @@ public class Docentes extends Pessoa {
 
 
     // DEPARTAMENTO
-    public String departamento;
+    private String departamento;
 
     public void setDepartamento(String departamento){
         this.departamento = departamento;
@@ -35,7 +37,7 @@ public class Docentes extends Pessoa {
 
 
     // CURSOS
-    public String[] cursos;
+    private String[] cursos;
 
     public void setCursos(String[] cursos){
         this.cursos = cursos;
@@ -47,12 +49,12 @@ public class Docentes extends Pessoa {
 
 
     // UCs
-    public UCs ucs;
+    private UC[] ucs;
 
-    public void setUcs(UCs ucs){
+    public void setUcs(UC[] ucs){
         this.ucs = ucs;
     }
-    public UCs getUcs(){
+    public UC[] getUcs(){
         return this.ucs;
     }
     // UCs

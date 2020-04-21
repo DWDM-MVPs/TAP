@@ -1,11 +1,13 @@
 package tap.ficha4;
 
-public abstract class UCs {
-    public UCs(String nome, int notaFinal, Boolean finalizada){
+public class UC {
+    public UC(String nome, int notaFinal, Boolean finalizada){
         this.nome = nome;
         this.notaFinal = notaFinal;
         this.finalizada = finalizada;
     }
+
+    public UC() {}
 
 
 
