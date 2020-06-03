@@ -1,0 +1,54 @@
+2490	Naloxona	MedicamentoSemReceita	10	5	24.96	PharmaK
+5590	Captodiamo	MedicamentoSemReceita	6	5	5.43	MYERZ
+6670	Spray Protect FPS50	cosmetico	5	5	23.85	LSUN
+6780	Óleo Seco FP20	cosmetico	4	4	24.2	OLIV
+9740	Risperidona	MedicamentoSemReceita	5	6	5.13	ALCOM
+1231	Esponja Natural	outro	2	3	4.25	OLIV
+1931	Galantamina	MedicamentoSemReceita	1	3	11.76	MYERZ
+7711	Eau Perfum Claire	cosmetico	3	3	16.66	SMELL
+1751	Perfenazina	MedicamentoSemReceita	7	6	19.76	KORAGIN
+1321	Trazodona	MedicamentoSemReceita	6	7	8.11	MENALAB
+1981	Emilcamato	MedicamentoSemReceita	3	4	25.75	KORAGIN
+4851	Topiramato	MedicamentoSemReceita	3	3	10.78	IFARBE
+5202	Ziprazidona	MedicamentoSemReceita	4	5	25.33	KORAGIN
+1622	Benfluorex	MedicamentoSemReceita	2	3	20.4	IFARBE
+4442	Doxepina	MedicamentoSemReceita	5	3	25.86	IFARBE
+6042	Flupentixol	MedicamentoComReceita	5	7	19.26	ALCOM
+3012	Citalopram	MedicamentoSemReceita	8	5	25.76	PharmaK
+5152	Oxipertina	MedicamentoSemReceita	5	4	23.12	MENALAB
+9622	Pimozida	MedicamentoComReceita	4	3	5.46	PharmaK
+8452	Leflunomida	MedicamentoComReceita	8	7	7.61	KORAGIN
+6443	Vortioxetina	MedicamentoSemReceita	16	8	9.44	PharmaK
+5713	Moperona	MedicamentoComReceita	12	7	8.82	IFARBE
+5823	Clotiapina	MedicamentoSemReceita	5	3	10.16	PharmaK
+2343	Sensitive Advance FP50+	cosmetico	4	5	19.99	LSUN
+4984	Paroxetina	MedicamentoSemReceita	7	6	19.84	IFARBE
+3564	Parecoxibe	MedicamentoComReceita	10	7	22.3	ALCOM
+7214	Sulpirida	MedicamentoComReceita	4	3	18.54	MENALAB
+9284	Fluvoxamina	MedicamentoSemReceita	4	2	6.88	IFARBE
+3665	Opipramol	MedicamentoSemReceita	5	5	12.56	KORAGIN
+6835	Ropinirol	MedicamentoSemReceita	5	4	18.34	MYERZ
+2495	Perfume Nº 43	cosmetico	4	3	12.54	WELLB
+9565	Fenelzina	MedicamentoSemReceita	5	3	16.34	MYERZ
+9815	Protetor Solar FPS30	cosmetico	5	4	19.99	LSUN
+3585	Clorexadol	MedicamentoComReceita	5	6	18.27	MENALAB
+4475	Parfum N8	cosmetico	4	3	23.44	WELLB
+4735	Tesoura Bebé	outro	4	3	8.85	BABYP
+5035	Colónia Lavanda	cosmetico	5	4	7.99	OLIV
+5445	Biperideno	MedicamentoComReceita	8	6	23.22	KORAGIN
+4796	Brinquedo Banho	outro	3	4	12.35	BABYP
+8996	Mianserina	MedicamentoSemReceita	7	5	17.9	ALCOM
+9257	Zotepina	MedicamentoComReceita	11	8	5.25	MYERZ
+9187	Valdecoxibe	MedicamentoComReceita	16	8	14.48	ALCOM
+3407	Metixeno	MedicamentoSemReceita	9	8	24.47	MENALAB
+3707	Perfume Senhora One	cosmetico	3	3	41.55	WELLB
+5047	Termómetro Banho Pinguim	outro	5	4	9.21	BABYP
+6627	Eau de Toilette Mauve	cosmetico	3	3	14.35	SMELL
+7257	Corta-unhas	outro	3	3	7.35	NAZ
+3958	Amoxapina	MedicamentoSemReceita	3	4	4.18	ALCOM
+5958	Nefazodona	MedicamentoSemReceita	9	7	22.6	MYERZ
+4438	Noxiptilina	MedicamentoComReceita	6	3	17.84	PharmaK
+5198	Duloxetina	MedicamentoComReceita	6	6	23.6	MENALAB
+2388	Aspirador Nasal	outro	4	4	7.55	NAZ
+9358	Spray Bronze Solaire	cosmetico	5	4	26.88	OLIV
+2329	Perfume Woman Azure	cosmetico	5	4	19.21	SMELL

@@ -1,0 +1,13 @@
+2490					--- Código					(int)
+
+Naloxona				--- Nome					(string)
+MedicamentoSemReceita	--- Tipo					(string)
+10						--- N.º de unidades			(int)
+5						--- N.º de unidades minimo	(int)
+24.96					--- Preço					(decimal)
+PharmaK					--- Fornecedor				(string)
+
+
+
+
+Array<String, String, int, int, decimal, String>
