@@ -69,7 +69,7 @@ public class Program extends Main
     void PrintProdutos()
     {
         System.out.println("################################ PRINT PRODUTOS > START");
-        mapProdutos.forEach((key, value) -> System.out.println("\nCódigo: " + value.getCodigo() + "\nNome: " + value.getNome() + "\nStock: " + value.getStock() + "\nReserva: " + value.getReserva() + "\nPreço: " + value.getPreco() + "\nFornecedor: " + value.getFornecedor() + "\n"));
+        mapProdutos.forEach((key, value) -> System.out.println("\nCódigo: " + value.getCodigo() + " || Nome: " + value.getNome() + " || Stock: " + value.getStock() + " || Reserva: " + value.getReserva() + " || Preço: " + value.getPreco() + " || Fornecedor: " + value.getFornecedor() + "\n"));
         System.out.println("################################ PRINT PRODUTOS > END");
     }
 }

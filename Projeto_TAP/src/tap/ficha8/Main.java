@@ -35,7 +35,6 @@ public class Main
         program.LerInformacaoDeFicheiroDeObjetos();
         program.EfetuarVenda();
         program.GerarEncomenda();
-        program.PrintProdutos();
         program.CarregarEncomenda();
         program.PrintProdutos();
     }
