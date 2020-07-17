@@ -1,0 +1,30 @@
+CRIAR 4 CLASSES
+
+PRODUTO
+MEDICAMENTO
+COSMETICO
+OUTRO
+
+
+
+
+
+PRODUTO:
+	- Código
+	- Nome
+	-> TIPO - CLASSE
+	- Unidades
+	- Mínimo de Unidades
+	- Preço
+	- Fornecedor
+
+
+
+hierarquia de classes para os produtos
+três tipos de produtos: medicamentos, cosméticos e outros.
+
+cada produto deve ter:
+código, nome, nº de unidades disponíveis, nº mínimo de unidades em stock, preço e fornecedor.
+
+Relativamente aos medicamentos, estes podem ainda ser de venda livre ou não (neste caso
+é necessário receita médica).
